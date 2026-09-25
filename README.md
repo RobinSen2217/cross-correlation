@@ -56,6 +56,8 @@ cross-correlation/
 └── Example Frames/    # Sample image pairs for testing
 ```
 
+<!--
 ## Citation
 
 If you use this tool in your research, please cite the associated paper (citation details to be added upon publication).
+-->
