@@ -1,6 +1,6 @@
 # Cross-Correlation User Interface
 
-An FFT-based, GPU-accelerated tool for windowed cross-correlation analysis between two images. Given a pair of image frames (e.g. sequential observations of a drifting or evolving structure), it computes a spatial map of local correlation strength using an interactive, GPU-accelerated backend — designed to run entirely inside Google Colab.
+An FFT-based, GPU-accelerated tool for windowed cross-correlation analysis between two images. Given a pair of image frames (e.g. sequential observations of a drifting or evolving structure), it computes a spatial map of local correlation strength using an interactive, GPU-accelerated program, designed to run entirely inside Google Colab.
 
 This repository accompanies an in-progress research paper and is intended as the reference implementation of the method described there.
 
